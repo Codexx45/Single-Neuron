@@ -4,9 +4,9 @@ This Python script implements a simple artificial neuron function that takes two
 Description
 The function weighted_sum_with_bias(x1, x2):
 
-Multiplies inputs x1 and x2 by weights (both set to 5.0).
+Multiplies inputs x1 and x2 by weights (both set to 1.0).
 
-Adds a bias value (-5.0).
+Adds a bias value (-1.0).
 
 Returns:
 
