@@ -1,7 +1,7 @@
 def weighted_sum_with_bias(x1, x2):
-    w1 = 5.0
-    w2 = 5.0
-    bias = -5.0
+    w1 = 1.0
+    w2 = 1.0
+    bias = -1.0
 
     total = x1 * w1 + x2 * w2 + bias
     return 1 if total >= 1 else 0
